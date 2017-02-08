@@ -1,0 +1,60 @@
+.wrapper {
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.header  .project-name{
+	font-size:30px;
+	color:gray;
+}
+.header   .navigation {
+	margin:20px;
+	font-size:30px;
+}
+.header .navigation a {
+  color: grey;
+  font-weight:bold;
+  text-decoration: none;
+  padding:5px 33px;
+  background:#d8cccc;
+  border-radius:5px;
+  width:100%;
+ cursor:pointer;
+}
+.Marketing {
+	text-align:center;
+  	border-radius: 10px;
+  	margin: 10px;
+  	padding: 30px;
+}
+.Marketing button {
+	border-radius:5px;
+	padding:10px 20px;
+	color:white;
+	background:green;
+	border:none; 
+}
+.content {
+  padding: 10px;
+  width: 100%;
+  margin-left: 50px;}
+
+.content .Sufari {
+  display: inline-block;
+  width: calc(30% - 40px);
+  margin: 0;
+padding:10px 20px}
+
+.content .Sufari button {
+border-radius:5px;
+	padding:5px 35px;
+	color:white;
+	background:blue;
+	border:none; 
+}
+.footer {
+	margin-top:75; 
+  padding: 10px;
+  color: grey;
+}
